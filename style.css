@@ -70,12 +70,12 @@ body{
   width: 85%;
   margin: auto;
   border: 4px solid black;
-  background-color: whitesmoke;
+ background-color: #081230;
+ color: white;
 }
 .box_ass3{
   width: 45%;
   margin: 5% auto 0%;
-  
 }
 .box_ass3_2{
   width: 45%;
@@ -99,6 +99,27 @@ body{
 .assignment3{
   background-color: antiquewhite;
   padding: 3%;
+}
+.box_ass3 ul{
+  list-style-image:url(Tick_Image1.png) ;
+  padding-top: 5%;
+}
+.box_ass3 li{
+  padding-left: 1rem;
+  padding-bottom: 8px;
+}
+.box_ass3 button{
+  margin-top: 5%;
+  padding: 10px;
+  background-color: rgb(43,132,234);
+  color: white;
+  border: 1px;
+  border-color: rgb(43,132,234);
+  border-radius: 10%;
+}
+.box_ass3 span{
+  padding-left: 2%;
+  color: rgb(43,132,234);
 }
 /* assignment_4 sttyle starts here*/
 
